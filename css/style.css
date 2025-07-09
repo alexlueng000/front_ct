@@ -2572,7 +2572,7 @@ blockquote:before {
 .site-header {
     position: relative;
     z-index: 99999;
-	min-height: 65px;
+	min-height: 85px;
 }
 .site-header ul,
 .site-header ol {
@@ -2997,6 +2997,9 @@ blockquote:before {
     background: #FFFFFF;
     width: 100%;
     position: relative;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
 }
 .header-curve .logo-header:before,
 .header-curve .logo-header:after {

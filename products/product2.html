@@ -35,6 +35,20 @@
     <link rel="stylesheet" type="text/css" href="../css/star-rating-svg.css">
 	<!-- Google Font -->
 	<style>
+        .modal-content {
+      border-radius: 10px;
+      text-align: center;
+      padding: 20px;
+    }
+    .modal-img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+    }
+    .modal-text {
+      font-size: 18px;
+      color: #333;
+    }
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
 	</style>
 	
@@ -164,7 +178,7 @@
 									<div class="mfp-gallery">
 										<div class="dlab-box">
 											<div class="dlab-thum-bx">
-												<img src="../images/ct-products/ct-2.png" alt="">
+												<img src="../images/ct-products/ct-2.png" style="scale: 1.5;" alt="">
 												<div class="overlay-bx">
 													<div class="overlay-icon">
 														<span data-exthumbimage="../images/ct-products/ct-2.png" data-src="../images/ct-products/ct-2.png" class="check-km" title="Image 1 Title will come here">		
@@ -189,9 +203,24 @@
 								<p class="m-b10">μCT50/100/100HE是SCANCO Medical AG公司分辨率最高、样品仓最大的产品，分辨率可达到0.5/1.25/1.5μm，样品仓的尺寸也更大，同时配备了自动换样器（12个位置），可实现批量扫描、无人值守扫描样品。研究对象通常为离体标本（例如骨骼、牙齿、组织、材料）或各种材质的样品，分析其内部结构和力学特性。也可使用造影剂灌注动物，对心血管、泌尿系统、消化系统进行精细成像，可应用于骨科、牙科、肿瘤科、再生医学、心血管科、材料学、地质学及古生物学等领域。</p>
 								
 							</div>
-							<button class="site-button radius-no">
-								<i class="ti-shopping-cart"></i>立即咨询
-							</button>
+							<div class="btn-group product-item-size" data-bs-toggle="buttons">
+								<button class="site-button orange m-r15" type="button" data-bs-toggle="modal" data-bs-target="#infoModal">立即咨询</button>
+							</div>
+							<!-- 模态框 -->
+							<div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+								<div class="modal-dialog modal-sm">
+									<div class="modal-content">
+										<div style="flex-direction: column;">
+											<!-- <h5 class="modal-title m-d30" >扫码免费领样</h5> -->
+											<img src="../images/qrcode.jpg" alt="QR Code" class="modal-img">
+										</div>
+										
+										<div class="modal-footer justify-content-center" style="margin-top: -20px;">
+										<button class="site-button orange m-r15" type="button" data-bs-dismiss="modal">关闭</button>
+										</div>
+									</div>
+								</div>
+							</div>
 						</form>
 					</div>
                 </div>
@@ -539,6 +568,13 @@
 
 
 <script src="../js/jquery.star-rating-svg.js"></script>
+
+<script>
+    // 初始化模态框，并禁用背景遮罩层
+    var myModal = new bootstrap.Modal(document.getElementById('infoModal'), {
+        backdrop: false // 禁用背景遮罩
+    });
+</script>
 <script>
 $(document).ready(function() {
 

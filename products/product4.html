@@ -35,6 +35,20 @@
     <link rel="stylesheet" type="text/css" href="../css/star-rating-svg.css">
 	<!-- Google Font -->
 	<style>
+        .modal-content {
+      border-radius: 10px;
+      text-align: center;
+      padding: 20px;
+    }
+    .modal-img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 15px;
+    }
+    .modal-text {
+      font-size: 18px;
+      color: #333;
+    }
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
 	</style>
 	
@@ -164,7 +178,7 @@
 									<div class="mfp-gallery">
 										<div class="dlab-box">
 											<div class="dlab-thum-bx">
-												<img src="../images/ct-products/ct-4.png" alt="">
+												<img src="../images/ct-products/ct-4.png" style="scale: 1.5;" alt="">
 												<div class="overlay-bx">
 													<div class="overlay-icon">
 														<span data-exthumbimage="../images/ct-products/ct-1.png" data-src="../images/ct-products/ct-1.png" class="check-km" title="Image 1 Title will come here">		
@@ -189,9 +203,24 @@
 								<p class="m-b10">XtremeCTII 是SCANCO Medical AG 公司推出的活体小动物定量CT(pQCT,peripheral quantitative CT)，用于四肢肢端骨密度的临床检测。XtremeCTII能够将皮质骨和松质骨区别开，分别定量骨密度，显示3D图像并进行生物力学分析。因此 XtremeCT 对诊断骨质疏松和评价骨骼强度的价值，明显优于双能X线骨密度测定法(DEXA)。研究对象多为人体四肢或动物，兼用于临床和科研。能够分别定量分析人体四肢或动物的骨小梁和骨皮质，并可对其进行生物力学分析，评估其骨强度、骨质疏松及骨折风险等。</p>
 								
 							</div>
-							<button class="site-button radius-no">
-								<i class="ti-shopping-cart"></i>立即咨询
-							</button>
+							<div class="btn-group product-item-size" data-bs-toggle="buttons">
+								<button class="site-button orange m-r15" type="button" data-bs-toggle="modal" data-bs-target="#infoModal">立即咨询</button>
+							</div>
+							<!-- 模态框 -->
+							<div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+								<div class="modal-dialog modal-sm">
+									<div class="modal-content">
+										<div style="flex-direction: column;">
+											<!-- <h5 class="modal-title m-d30" >扫码免费领样</h5> -->
+											<img src="../images/qrcode.jpg" alt="QR Code" class="modal-img">
+										</div>
+										
+										<div class="modal-footer justify-content-center" style="margin-top: -20px;">
+										<button class="site-button orange m-r15" type="button" data-bs-dismiss="modal">关闭</button>
+										</div>
+									</div>
+								</div>
+							</div>
 						</form>
 					</div>
                 </div>
@@ -503,6 +532,13 @@
 
 
 <script src="../js/jquery.star-rating-svg.js"></script>
+
+<script>
+    // 初始化模态框，并禁用背景遮罩层
+    var myModal = new bootstrap.Modal(document.getElementById('infoModal'), {
+        backdrop: false // 禁用背景遮罩
+    });
+</script>
 <script>
 $(document).ready(function() {
 

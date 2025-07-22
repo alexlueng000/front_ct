@@ -60,6 +60,17 @@
         display: block;
     }
 
+    .navbar-nav a {
+  font-family: "Arial Unicode MS", "Segoe UI", "Noto Sans", sans-serif !important;
+}
+.navbar-nav a {
+  text-transform: none !important;
+  font-variant: normal !important;
+}
+.navbar-nav a::first-letter {
+  font-family: inherit !important;
+}
+
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
 	</style>
 </head>
@@ -82,26 +93,14 @@
 						<span></span>
 						<span></span>
 					</button>
-                    <!-- extra nav -->
-                    <!-- <div class="extra-nav">
-                        <div class="extra-cell">
-                            <button id="quik-search-btn" type="button" class="site-button-link"><i class="la la-search"></i></button>
-						</div>
-                    </div> -->
-                    <!-- Quik search -->
-                    <!-- <div class="dlab-quik-search ">
-                        <form action="#">
-                            <input name="search" value="" type="text" class="form-control" placeholder="Type to search">
-                            <span id="quik-search-remove"><i class="ti-close"></i></span>
-                        </form>
-                    </div> -->
+
                     <!-- main nav -->
                     <div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
 						<div class="logo-header d-md-block d-lg-none">
 							<a href="index.html"><img src="images/logo-8.png" alt=""></a>
 						</div>
                         <ul class="nav navbar-nav">	
-							<li class="active has-mega-menu homedemo">
+							<li class=" has-mega-menu homedemo">
 								<a href="javascript:;">首页</a>
 								
 							</li>
@@ -109,10 +108,10 @@
 								<a href="scanco-ct.html">SCANCO CT系列产品<i class="fas fa-chevron-down"></i></a>
 								<ul class="sub-menu">
 									<li>
-										<a href="products/product1.html">CTμCT45/90</a>
+										<a href="products/product1.html">μCT45/90</a>
 									</li>
 									<li>
-										<a href="products/product2.html">CT μCT50/100/100 HE</a>
+										<a href="products/product2.html">μCT50/100/100 HE</a>
 									</li>
 									<li>
 										<a href="products/product3.html">vivaCT80</a>
@@ -123,7 +122,7 @@
 								</ul>
 							</li>
 
-                            <li>
+                            <li class="active">
 								<a href="scan-service.html">SCANCO CT扫描检测服务</a>
 							</li>
 							
@@ -179,10 +178,54 @@
         </div>
         <!-- inner page banner END -->
         <!-- contact area -->
-        <div class="content-block">
+        <div class="content-block content-inner">
+
+            <div class="section-full ">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <div class="text-center">
+                                <h2>SCANCO μCT100分辨率对照表</h2>
+                            </div>
+                            <div class="row">
+                                <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; text-align: center; font-family: Arial; font-size: 14px; width: 100%;">
+                                    <thead style="background-color: #f2f2f2;">
+                                      <tr>
+                                        <th>样品管尺寸<br>(内径×高度 mm)</th>
+                                        <th>扫描尺寸<br>(FOV mm)</th>
+                                        <th>超高分辨率<br>(Native, μm)</th>
+                                        <th>高分辨率<br>(High, μm)</th>
+                                        <th>中等分辨率<br>(Standard/Medium, μm)</th>
+                                        <th>自定义分辨率<br>(Custom, μm)</th>
+                                      </tr>
+                                    </thead>
+                                    <tbody>
+                                      <tr><td>8×78</td><td>10.2</td><td>3.3</td><td>5</td><td>9</td><td>3.3~20.0</td></tr>
+                                      <tr><td>12×92</td><td>15.2</td><td>4.9</td><td>7.4</td><td>14.8</td><td>4.9~29.6</td></tr>
+                                      <tr><td>17×84</td><td>20.5</td><td>6.6</td><td>10</td><td>20</td><td>6.6~40.0</td></tr>
+                                      <tr><td>32×110</td><td>35.2</td><td>11.4</td><td>17.2</td><td>34.4</td><td>11.4~68.8</td></tr>
+                                      <tr><td>46×110</td><td>50.4</td><td>16.4</td><td>24.6</td><td>49.2</td><td>16.4~98.4</td></tr>
+                                      <tr><td>71×130</td><td>75.4</td><td>24.5</td><td>36.8</td><td>73.6</td><td>24.5~147.2</td></tr>
+                                      <tr><td>88×130</td><td>90.1</td><td>29.3</td><td>44</td><td>88</td><td>29.3~176</td></tr>
+                                      <tr><td>99×130</td><td>105.1</td><td>34.2</td><td>51.3</td><td>102.6</td><td>34.2~205.2</td></tr>
+                                    </tbody>
+                                  </table>
+                                  
+                                  <p style="font-size: 13px; margin-top: 10px;"><strong>备注1：</strong>建议分辨率选择默认档位 Native，High，Standard/Medium。如有特殊要求，可自定义分辨率。</p>
+                                  <p style="font-size: 13px;"><strong>备注2：</strong>若样品为非液体，则可不加盖，样品高度可增加 20~30mm，最大样品尺寸为 99×160mm。</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 			<!-- About Us -->
-                <div class="section-full content-inner">
+                <div class="section-full m-t40">
                     <div class="container">
+
+                        <div class="text-center">
+                            <h2>场景实例</h2>
+                        </div>
                         <div class="row">
                             <div class="col-lg-3 col-md-4 m-b30">
                                 <ul class="list-star red list-box" id="category-list">

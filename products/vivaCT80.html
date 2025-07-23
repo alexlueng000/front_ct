@@ -60,6 +60,56 @@
 .navbar-nav a::first-letter {
   font-family: inherit !important;
 }
+
+.spec-table {
+        width: 100%;
+        max-width: 900px;
+        margin-left: 0;
+        margin-right: auto;
+        border-collapse: collapse;
+        font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+        font-size: 16px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .spec-table caption {
+        caption-side: top; /* 指定caption显示在顶部 */
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 15px;
+        text-align: center;
+        color: #333;
+    }
+
+    .spec-table th,
+    .spec-table td {
+        padding: 12px 16px;
+        border: 1px solid #ddd;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .spec-table th {
+        background-color: #f6f8fa;
+        font-weight: bold;
+        width: 30%;
+        color: #222;
+    }
+
+    .spec-table td {
+        background-color: #fff;
+    }
+
+    .spec-table tr:nth-child(even) td {
+        background-color: #fafafa;
+    }
+
+    .spec-table .optional {
+        background-color: #f0f9ff;
+        font-weight: bold;
+        text-align: center;
+        color: #0a58ca;
+    }
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
 	</style>
 	
@@ -97,17 +147,26 @@
                                 <a href="../scanco-ct.html">SCANCO CT系列产品<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li>
-                                        <a href="../products/product1.html">μCT45/90</a>
-                                    </li>
-                                    <li>
-                                        <a href="../products/product2.html">μCT50/100/100 HE</a>
-                                    </li>
-                                    <li>
-                                        <a href="../products/product3.html">vivaCT80</a>
-                                    </li>
-                                    <li>
-                                        <a href="../products/product4.html">Xtreme CT II</a>
-                                    </li>
+										<a href="../products/μCT45.html">μCT 45</a>
+									</li>
+									<li>
+										<a href="../products/μCT50.html">μCT 50</a>
+									</li>   
+									<li>
+										<a href="../products/μCT90.html">μCT 90</a>
+									</li>
+									<li>
+										<a href="../products/μCT100.html">μCT 100</a>
+									</li>
+									<li>
+										<a href="../products/μCT100HE.html">μCT 100HE</a>
+									</li>
+									<li>
+										<a href="../products/vivaCT80.html">vivaCT80</a>
+									</li>
+									<li>
+										<a href="../products/XtremeCTII.html">Xtreme CT II</a>
+									</li>
                                 </ul>
                             </li>
 
@@ -132,14 +191,7 @@
                             </li>
                             
                         </ul>
-                        <!-- <div class="dlab-social-icon">
-                            <ul>
-                                <li><a class="site-button circle fab fa-facebook-f" href="javascript:void(0);"></a></li>
-                                <li><a class="site-button  circle fab fa-twitter" href="javascript:void(0);"></a></li>
-                                <li><a class="site-button circle fab fa-linkedin-in" href="javascript:void(0);"></a></li>
-                                <li><a class="site-button circle fab fa-instagram" href="javascript:void(0);"></a></li>
-                            </ul>
-                        </div>		 -->
+                        
                     </div>
                 </div>
             </div>
@@ -152,7 +204,7 @@
         <div class="dlab-bnr-inr overlay-black-middle bg-pt" style="background-image:url(../images/website-banner.jpg);">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
-                    <h1 class="text-white">μCT45/90（离体）</h1>
+                    <h1 class="text-white">vivaCT 80 活体 microCT 扫描仪</h1>
 					<!-- Breadcrumb row -->
 					<!-- <div class="breadcrumb-row">
 						<ul class="list-inline">
@@ -177,7 +229,7 @@
 									<div class="mfp-gallery">
 										<div class="dlab-box">
 											<div class="dlab-thum-bx">
-												<img src="../images/ct-products/ct-1.png" style="scale: 1.4;" alt="">
+												<img src="../images/ct-products/ct-3.png" style="scale: 1.6;" alt="">
 												<div class="overlay-bx">
 													<div class="overlay-icon">
 														<span data-exthumbimage="../images/ct-products/ct-1.png" data-src="../images/ct-products/ct-1.png" class="check-km" title="Image 1 Title will come here">		
@@ -198,8 +250,8 @@
 					<div class="col-md-7 col-lg-7 col-sm-12">
 						<form method="post" class="cart sticky-top">
 							<div class="dlab-post-title">
-								<h4 class="post-title"><a href="javascript:void(0);">μCT45/90（离体）</a></h4>
-								<p class="m-b10 m-t20">μCT45/90是SCANCO Medical AG公司 μCT35 /40/80升级的产品，不仅占地面积更小，同时还兼顾了高分辨率（1.25μm/2.2μm）和大样本仓的优点，有自动换样器（20/16个位置）可实现批量扫描、无人值守扫描样品。研究对象通常为离体标本（例如骨骼、牙齿、组织、材料）或各种材质的样品，分析其内部结构和力学特性。也可使用造影剂灌注动物，对心血管、泌尿系统、消化系统进行精细成像，可应用于骨科、牙科、肿瘤科、再生医学、心血管科、材料学、地质学及古生物学等领域。</p>
+								<h4 class="post-title"><a href="javascript:void(0);">vivaCT 80 活体 microCT 扫描仪</a></h4>
+								<p class="m-b10 m-t20">vivaCT80是SCANCO Medical AG 公司最新的活体产品，是vivaCT40和vivaCT75的升级产品，添加了触屏显示器、加热系统、呼吸麻醉接口，能够更好得监控动物的生存状态。vivaCT80的分辨率达到了3.9μm，样品仓也更大（90x500mm），配备大动物装置后可以扫描兔子头颅、四肢等体积较大的动物。研究对象通常为小鼠、大鼠或兔等活体小动物，麻醉或固定后扫描。可实现对组织、器官、生理功能代谢的纵向研究。</p>
 								
 							</div>
 							<div class="btn-group product-item-size" data-bs-toggle="buttons">
@@ -233,197 +285,49 @@
                             <div class="tab-content">
                                 
                                 <div id="graphic-design-1" class="tab-pane active">
-                                    <table class="table table-bordered">
-                                        <thead style="background-color: bg-primary;">
-                                            <tr>
-                                                <th>参数</th>
-                                                <th>μCT45</th>
-                                                <th>μCT90</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>离体系统</td>
-                                                <td>μCT45</td>
-                                                <td>μCT90</td>
-                                            </tr>
-                                            <tr>
-                                                <td>峰值能量</td>
-                                                <td>20-90 kVp</td>
-                                                <td>20-90 kVp</td>
-                                            </tr>
-                                            <tr>
-                                                <td>可变焦点尺寸</td>
-                                                <td>5-7μm (4-8W)</td>
-                                                <td>5-7μm (4-8W)</td>
-                                            </tr>
-                                            <tr>
-                                                <td>过滤器（Al, Cu, Air）</td>
-                                                <td>可配</td>
-                                                <td>可配</td>
-                                            </tr>
-                                            <tr>
-                                                <td>最大扫描直径</td>
-                                                <td>50mm</td>
-                                                <td>90mm</td>
-                                            </tr>
-                                            <tr>
-                                                <td>最大扫描长度/高度</td>
-                                                <td>120mm</td>
-                                                <td>120mm</td>
-                                            </tr>
-                                            <tr>
-                                                <td>最大样品直径</td>
-                                                <td>90mm</td>
-                                                <td>90mm</td>
-                                            </tr>
-                                            <tr>
-                                                <td>最大样品长度/高度</td>
-                                                <td>120mm</td>
-                                                <td>120mm</td>
-                                            </tr>
-                                            <tr>
-                                                <td>自动样本转换器选项</td>
-                                                <td>最多容纳20根样品管</td>
-                                                <td>最多容纳16根样品管</td>
-                                            </tr>
-                                            <tr>
-                                                <td>分辨率（额定 / 10%MTF）</td>
-                                                <td>1.25-100μm / &lt;5μm</td>
-                                                <td>2.2-180μm / &lt;8μm</td>
-                                            </tr>
-                                            <tr>
-                                                <td>图像矩阵</td>
-                                                <td>512 x 512 至 8192 x 8192</td>
-                                                <td>512 x 512 至 8192 x 8192</td>
-                                            </tr>
-                                        </tbody>
+                                    <table class="spec-table">
+                                        <caption>vivaCT 80 活体 microCT 扫描仪</caption>
+                                        <tr><th>类型</th><td style="margin: 0; padding: 0;">
+                                            <table style="width: 100%; border-collapse: collapse; border: none; margin: 0;">
+                                                <tr>
+                                                  <td colspan="2" style="padding: 4px 12px;">锥形束活体 microCT、全屏蔽、无需外部屏蔽集成加热室</td>
+                                                </tr>
+                                                <tr>
+                                                  <th  style="padding: 4px 12px;">综合动物监控装置</th>
+                                                  <td>温度监测、集成观察相机、心率监测</td>
+                                                </tr>   
+                                                <tr>
+                                                  <th  style="padding: 4px 12px;">可互换的监控单元</th>
+                                                  <td></td>
+                                                </tr>
+                                                <tr>
+                                                  <th  style="padding: 4px 12px;">集成式呼吸门控装置</th>
+                                                  <td></td>
+                                                </tr>
+                                                <tr>
+                                                  <th style="padding: 4px 12px;">集成触摸显示屏</th>
+                                                  <td></td>
+                                                </tr>
+                                              </table>
+                                          </td></tr>
+                                        <tr><th>X 射线源</th><td>密封 风冷 免维护 光斑尺寸为5 µm  - 7 µm（4 / 8 W）<br>30 - 70 kVp （45、55、70 kVp预设并校准）</td></tr>
+                                        <tr><th>探测器</th><td>3720×400像素，48 µm间距，CCD</td></tr>
+                                        <tr><th>分辨率</th><td>&lt;14 µm（10% MTF）<br>3.9 µm - 160 µm标称各向同性（像素尺寸）</td></tr>
+                                        <tr><th>图像矩阵</th><td>512 × 512 - 8192 × 8192 像素</td></tr>
+                                        <tr><th>最大扫描尺寸</th><td>  80 x 145 mm (ØxL)<br>多次扫描最高可达450mm</td></tr>
+                                        <tr><th>最大试样尺寸</th><td>  90 x 500 mm (ØxL)</td></tr>
+                                        <tr><th>最短扫描时长</th><td>  20s</td></tr>
+                                        <tr><th>电气</th><td> 100 - 230 V / 50 - 60 Hz    max. 400 W</td></tr>
+                                        <tr><th>尺寸</th><td> 2050 x 1230 x 910 mm（高 x 宽 x 深）</td></tr>
+                                        <tr><th>重量</th><td>400 kg（标准），430kg（加配大动物装置）</td></tr>
+                                        <tr><td colspan="2" class="optional">可选装</td></tr>
+                                        <tr><th>大动物装置</th><td>该配置可对小兔等体型较大的实验动物的四肢末端进行扫描</td></tr>
+                                        <tr><th>过滤器更换器</th><td>加装滤片切换器后，可对 X 射线束的能量谱进行塑形。对于小型且轻质的样本，使用弱滤片能增强软组织的对比度；而较强的滤片可通过降低束硬化效应，提高密度测量的准确性。可选滤片材料包括 0.1 mm 铝、0.5 mm 铝或 0.1 mm 铜。第四个位置为空档，可进行无滤片扫描。</td></tr>
+                                        
                                     </table>
+                                    
                                 </div>
-                                <div id="developement-1" class="tab-pane">
-                                    <div id="comments">
-                                        <ol class="commentlist">
-                                            <li class="comment">
-                                                <div class="comment_container"> 
-													<img class="avatar avatar-60 photo" src="images/testimonials/pic1.jpg" alt="">
-                                                    <div class="comment-text">
-                                                        <div  class="star-rating">
-                                                            <div data-rating="3"> 
-																<i class="fas fa-star text-yellow" data-alt="1" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="2" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="3" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="4" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="5" title="regular"></i> 
-															</div>
-                                                        </div>
-                                                        <p class="meta"> 
-															<strong class="author">Cobus Bester</strong> 
-															<span><i class="far fa-clock"></i> March 7, 2013</span> 
-														</p>
-                                                        <div class="description">
-                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li class="comment">
-                                                <div class="comment_container"> 
-													<img class="avatar avatar-60 photo" src="images/testimonials/pic2.jpg" alt="">
-                                                    <div class="comment-text">
-                                                        <div  class="star-rating">
-                                                            <div data-rating="3"> 
-																<i class="fas fa-star text-yellow" data-alt="1" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="2" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="3" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="4" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="5" title="regular"></i> 
-															</div>
-                                                        </div>
-                                                        <p class="meta"> 
-															<strong class="author">Cobus Bester</strong> 
-															<span><i class="far fa-clock"></i> March 7, 2013</span> 
-														</p>
-                                                        <div class="description">
-                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li class="comment">
-                                                <div class="comment_container"> 
-													<img class="avatar avatar-60 photo" src="images/testimonials/pic3.jpg" alt="">
-                                                    <div class="comment-text">
-                                                        <div  class="star-rating">
-                                                            <div data-rating="3"> 
-																<i class="fas fa-star text-yellow" data-alt="1" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="2" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="3" title="regular"></i> 
-																<i class="fas fa-star text-yellow" data-alt="4" title="regular"></i> 
-																<i class="far fa-star text-yellow" data-alt="5" title="regular"></i> 
-															</div>
-                                                        </div>
-                                                        <p class="meta"> 
-															<strong class="author">Cobus Bester</strong> 
-															<span><i class="far fa-clock"></i> March 7, 2013</span> 
-														</p>
-                                                        <div class="description">
-                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ol>
-                                    </div>
-                                    <div id="review_form_wrapper">
-                                        <div id="review_form">
-                                            <div id="respond" class="comment-respond">
-                                                <h3 class="comment-reply-title" id="reply-title">Add a review</h3>
-                                                <form class="comment-form" method="post" >
-                                                    <div class="comment-form-author">
-                                                        <label>Name <span class="required">*</span></label>
-                                                        <input type="text" aria-required="true" size="30" value="" name="author" id="author">
-                                                    </div>
-                                                    <div class="comment-form-email">
-                                                        <label>Email <span class="required">*</span></label>
-                                                        <input type="text" aria-required="true" size="30" value="" name="email" id="email">
-                                                    </div>
-                                                    <div class="comment-form-rating">
-                                                        <label class="pull-left m-r20">Your Rating</label>
-														<div class="rating-widget">
-															<!-- Rating Stars Box -->
-															<div class="rating-stars">
-																<ul id="stars">
-																	<li class="star" title="Poor" data-value="1">
-																		<i class="fas fa-star fa-fw"></i>
-																	</li>
-																	<li class="star" title="Fair" data-value="2">
-																		<i class="fas fa-star fa-fw"></i>
-																	</li>
-																	<li class="star" title="Good" data-value="3">
-																		<i class="fas fa-star fa-fw"></i>
-																	</li>
-																	<li class="star" title="Excellent" data-value="4">
-																		<i class="fas fa-star fa-fw"></i>
-																	</li>
-																	<li class="star" title="WOW!!!" data-value="5">
-																		<i class="fas fa-star fa-fw"></i>
-																	</li>
-																</ul>
-															</div>
-														</div>
-                                                    </div>
-                                                    <div class="comment-form-comment">
-                                                        <label>Your Review</label>
-                                                        <textarea aria-required="true" rows="8" cols="45" name="comment" id="comment"></textarea>
-                                                    </div>
-                                                    <div class="form-submit">
-                                                        <input type="submit" value="Submit" class="site-button" id="submit" name="submit">
-                                                    </div>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -441,7 +345,7 @@
                                         <div class="row">
                                             <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                                 <div class="dlab-box"> 
-                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product1/example-1.jpg" alt="">
+                                                    <div class="dlab-media  dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-5.png" alt="">
                                                         <div class="dlab-info-has p-a20 no-hover ">
 
                                                         </div>
@@ -450,22 +354,50 @@
                                             </div>
                                             <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                                 <div class="dlab-box"> 
-                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product1/example-2.jpg" alt="">
+                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-2.png" alt="">
+  
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                                                <div class="dlab-box"> 
+                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-9.jpg" alt="">
 
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                                 <div class="dlab-box"> 
-                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product1/example-3.png" alt="">
+                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-4.png" alt="">
+      
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                                                <div class="dlab-box"> 
+                                                    <div class="dlab-media  dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-1.png" alt="">
+        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                                                <div class="dlab-box"> 
+                                                    <div class="dlab-media  dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-6.png" alt="">
+         
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                                                <div class="dlab-box"> 
+                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-3.png" alt="">
 
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                                                 <div class="dlab-box"> 
-                                                    <div class="dlab-media dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product1/example-4.png" alt="">
-
+                                                    <div class="dlab-media  dlab-img-effect on rotate no-hover"> <img src="../images/ct-products/product3/example-8.png" alt="">
+            
                                                     </div>
                                                 </div>
                                             </div>
@@ -519,7 +451,6 @@
         backdrop: false // 禁用背景遮罩
     });
 </script>
-
 <script>
 $(document).ready(function() {
 

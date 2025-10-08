@@ -1,0 +1,63 @@
+{
+    "page": {
+      "title": "弗劳恩科服 - CT扫描检测服务",
+      "description": "弗劳恩科服提供专业的SCANCO MicroCT扫描检测服务，覆盖生物医学、材料学、地质学等多个科研领域。"
+    },
+    "brand": {
+      "logo_alt": "弗劳恩科服 LOGO",
+      "logo_mobile_alt": "弗劳恩科服移动端LOGO"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "CT扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "扫描检测服务",
+      "phone": "0755-86956965"
+    },
+    "table": {
+      "title": "SCANCO μCT100分辨率对照表",
+      "headers": {
+        "sample_tube": "样品管尺寸<br>(内径×高度)",
+        "fov": "扫描尺寸<br>(FOV [mm])",
+        "native": "超高分辨率<br>(Native)<br>[μm]",
+        "high": "高分辨率<br>(High)<br>[μm]",
+        "medium": "中等分辨率<br>(Standard/Medium)<br>[μm]",
+        "custom": "自定义分辨率<br>(Custom)<br>[μm]"
+      },
+      "notes": "<strong>备注1：</strong>建议分辨率选择默认档位 Native，High，Standard/Medium。如有特殊要求，可自定义分辨率。<br><strong>备注2：</strong>若样品为非液体，则可不加盖，样品高度可增加 20~30mm，最大样品尺寸为 99×160mm。"
+    },
+    "scenes": {
+      "title": "场景实例",
+      "menu": {
+        "biomed": "生物医学",
+        "clinical": "临床医学",
+        "dental": "牙科",
+        "ortho": "骨科",
+        "material": "材料学",
+        "fiber": "纤维",
+        "bio": "生物学",
+        "geology": "地质学",
+        "food": "食品",
+        "industry": "工业"
+      },
+      "content": {
+        "biomed": "生物医学是MicroCT最主要的应用领域之一。通过高精度扫描小动物模型，可无损量化肿瘤血管生成、器官病变、药物载体分布及基因治疗效应，为转化医学提供三维数据支撑。",
+        "clinical": "临床医学借助MicroCT实现疾病机制的可视化研究。通过扫描人体组织标本，可分析肿瘤血管分布、钙化特征、支架植入后组织整合效果等。",
+        "dental": "牙科领域聚焦硬组织微结构解析。通过扫描牙齿及颌骨标本，可评估种植体骨结合率、牙本质微裂扩展与正畸治疗对牙槽骨的影响。",
+        "ortho": "骨科研究以MicroCT为金标准技术。通过高分辨扫描骨骼样本，可量化骨小梁密度、皮质骨孔隙率及骨矿分布，精准评估骨质病变与愈合过程。",
+        "material": "材料科学依赖MicroCT进行无损表征。通过扫描金属泡沫、复合材料等，可量化孔隙率、裂纹路径及界面完整性，为材料失效分析提供数据。",
+        "fiber": "纤维研究利用MicroCT重建三维拓扑。通过扫描碳纤维或植物纤维复合材料，可计算缠结密度、取向角分布及负载作用下的结构变化。",
+        "bio": "生物学应用聚焦生物体三维重构。扫描珊瑚、昆虫、植物种子等标本，可解析共生系统空间结构与仿生生长模式。",
+        "geology": "地质研究通过MicroCT揭示岩层奥秘。扫描岩芯、矿石标本可分析孔隙连通率、裂隙渗透率及矿物相空间分布。",
+        "food": "食品工业应用MicroCT分析质构。扫描烘焙制品、冷冻食品等，可量化气泡分布、晶体网络与加工工艺对质地的影响。",
+        "industry": "工业检测以MicroCT为核心。通过扫描铸件、增材制造部件，可识别缩孔、缺陷与微裂纹，保障零部件可靠性。"
+      }
+    }
+  }
+  

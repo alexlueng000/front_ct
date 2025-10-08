@@ -1,0 +1,52 @@
+{
+    "page": {
+      "title": "弗劳恩科服 - SCANCO Micro CT 中国服务中心"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "SCANCO CT扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "slider": {
+      "kicker": "见微知著 创新无界",
+      "title": "SCANCO Micro CT<br>中国服务中心",
+      "cta": "了解更多"
+    },
+    "about": {
+      "title": "关于弗劳恩科服",
+      "desc": "深圳市弗劳恩科技服务有限公司（简称“弗劳恩科服”）成立于2014年，始终深耕高端显微影像领域。10年来，作为瑞士SCANCO MEDICAL AG 在大中华区（含港澳台及大陆地区）独家代理商，我们已构建起覆盖基础科研到临床转化的完整服务体系，累计装机量突破70+台，市场占有率连续保持行业领先。",
+      "cta": "了解更多"
+    },
+    "stats": {
+      "lead": "全球超过55%的MicroCT应用文献采用了SCANCO的产品，发布论文超过7500篇。10年来，作为瑞士SCANCO MEDICAL AG 在大中华区（含港澳台及大陆地区）独家代理商，我们打造了国内首个SCANCO Micro CT一站式精准三维成像服务平台，服务客户500+，国内装机量70+台。",
+      "items": [
+        { "value": "600", "label": "全球装机量" },
+        { "value": "70",  "label": "国内装机量" },
+        { "value": "500", "label": "服务客户" },
+        { "value": "100", "label": "专业高校" }
+      ]
+    },
+    "products": {
+      "title": "SCANCO Micro CT 系列产品",
+      "desc": "主要销售台式离体小动物显微CT μCT45/90、柜式离体小动物显微CT μCT50/100/100 HE、活体小动物显微CT vivaCT80、高分辨率动物定量CT Xtreme CT II",
+      "cards": [
+        { "title": "台式离体小动物显微CT<br>μCT45/90",        "cta": "查看详情" },
+        { "title": "柜式离体小动物显微CT<br>μCT50/100/100 HE", "cta": "查看详情" },
+        { "title": "活体小动物显微CT<br>vivaCT80",           "cta": "查看详情" },
+        { "title": "高分辨率动物定量CT<br>Xtreme CT II",       "cta": "查看详情" }
+      ]
+    },
+    "scan": {
+      "title": "扫描服务范围",
+      "desc": "可应用于骨科、牙科、肿瘤科、生物医学、心血管科、材料学、地质学及古生物学等",
+      "items": ["生物医学","临床医学","牙科","骨科","材料学","纤维","生物学","地质学","食品","工业"]
+    },
+    "partners": {
+      "title": "合作客户",
+      "desc": "精于微，不止于微——让每一微米的成像，驱动跨维度的创新"
+    }
+  }

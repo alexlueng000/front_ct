@@ -1,0 +1,37 @@
+{
+    "page": {
+      "title": "弗劳恩科服 – SCANCO CT 系列产品",
+      "description": "弗劳恩科服为您提供原装 SCANCO MicroCT 系列产品，涵盖离体、活体及高能版本。"
+    },
+    "brand": {
+      "logo_alt": "弗劳恩科服 LOGO",
+      "logo_mobile_alt": "弗劳恩科服 移动端 LOGO"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT 系列产品",
+      "scan_service": "CT 扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "SCANCO CT 系列产品"
+    },
+    "products": [
+      {
+        "html": "<div class='item-box m-b10'><div class='item-img'><a href=\"products/product1.html\"><img src='images/ct-products/ct-1.png' style='scale:1.8;' alt='μCT45/90' /></a></div><div class='item-info text-center text-black p-a10'><h5 class='item-title font-weight-500'><a href='products/product1.html'>μCT45 / 90 (离体)</a></h5></div></div>"
+      },
+      {
+        "html": "<div class='item-box m-b10 item-style-1'><div class='item-img'><a href=\"products/product2.html\"><img src='images/ct-products/ct-2.png' style='scale:1.8;' alt='μCT50/100/100HE' /></a></div><div class='item-info text-center text-black p-a10'><h5 class='item-title font-weight-500'><a href='products/product2.html'>μCT50 / 100 / 100 HE (离体)</a></h5></div></div>"
+      },
+      {
+        "html": "<div class='item-box m-b10'><div class='item-img'><a href=\"products/product3.html\"><img src='images/ct-products/ct-3.png' style='scale:1.8;' alt='vivaCT80' /></a></div><div class='item-info text-center text-black p-a10'><h5 class='item-title font-weight-500'><a href='products/product3.html'>vivaCT80 (活体)</a></h5></div></div>"
+      },
+      {
+        "html": "<div class='item-box m-b10'><div class='item-img'><a href=\"products/product4.html\"><img src='images/ct-products/ct-4.png' style='scale:1.8;' alt='Xtreme CT II' /></a></div><div class='item-info text-center text-black p-a10'><h5 class='item-title font-weight-500'><a href='products/product4.html'>Xtreme CT II (临床级)</a></h5></div></div>"
+      }
+    ]
+  }
+  

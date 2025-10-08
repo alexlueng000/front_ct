@@ -1,0 +1,36 @@
+{
+    "page": {
+      "title": "弗劳恩科服 - SCANCO Medical AG",
+      "description": "SCANCO Medical AG 位于瑞士苏黎世，是全球最早从事 MicroCT 技术研究与制造的企业。"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT 系列产品",
+      "scan_service": "CT 扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "SCANCO Medical AG"
+    },
+    "sidebar": {
+      "company_profile": "公司简介",
+      "scanco": "SCANCO Medical AG"
+    },
+    "content": {
+      "sections": [
+        {
+          "image": "images/scanco.png",
+          "title": "关于 SCANCO Medical AG",
+          "paragraphs": [
+            "SCANCO 位于瑞士苏黎世，自 1960 年代起在苏黎世大学实验室中开展 MicroCT 技术研究，是全球最早进入该领域的厂商之一。1988 年，SCANCO 正式脱离苏黎世大学，成立 SCANCO MEDICAL AG 公司。",
+            "SCANCO 的扫描系统在全球领先的学术、工业和医疗机构中广泛应用，涵盖生物医学、临床、牙科研究、材料分析、地质学、古生物学、纤维和食品等领域。目前，SCANCO 拥有四款高分辨率离体扫描仪、两款高分辨率活体扫描仪和一款四肢定量扫描分析系统，可提供高分辨率和高信噪比的图像质量及可重复的三维定量分析结果。",
+            "数十年来，SCANCO 一直致力于为全球科研机构提供最尖端的 MicroCT 技术与全方位的扫描、分析及咨询服务。全球超过 55% 的 MicroCT 研究论文使用了 SCANCO 产品，已发表论文超过 7500 篇，全球装机量超 600 台，其中骨科、牙科等领域的顶尖机构均为其客户。"
+          ]
+        }
+      ]
+    }
+  }
+  

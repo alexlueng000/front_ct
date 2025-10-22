@@ -1,0 +1,64 @@
+{
+    "page": {
+      "title": "Fraun Tech Service - SCANCO Micro CT China Service Center"
+    },
+    "nav": {
+      "home": "Home",
+      "scanco_products": "SCANCO CT Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact"
+    },
+    "slider": {
+      "kicker": "See the Micro, Inspire Innovation",
+      "title": "SCANCO Micro CT<br>China Service Center",
+      "cta": "Learn More"
+    },
+    "about": {
+      "title": "About Fraun Tech Service",
+      "desc": "Founded in 2014, Shenzhen Fraun Tech Service Co., Ltd. has been deeply engaged in high-end micro imaging. As the exclusive distributor of SCANCO Medical AG in Greater China (Mainland, Hong Kong, Macao, and Taiwan), we have built a full-service system from basic research to clinical translation. Over 70 installations and a leading market share make us a trusted partner in the field.",
+      "cta": "Learn More"
+    },
+    "stats": {
+      "lead": "Over 55% of global MicroCT publications use SCANCO products, with more than 7,500 papers published. As SCANCO Medical AG’s exclusive distributor in Greater China, we have established the country’s first all-in-one SCANCO Micro CT 3D imaging service platform, serving 500+ clients with 70+ local installations.",
+      "items": [
+        { "value": "600", "label": "Global Installations" },
+        { "value": "70",  "label": "China Installations" },
+        { "value": "500", "label": "Clients <br> Served" },
+        { "value": "100", "label": "Partner Universities" }
+      ]
+    },
+    "products": {
+      "title": "SCANCO Micro CT Product Line",
+      "desc": "We offer benchtop ex-vivo micro-CT systems (μCT45/90), cabinet-style systems (μCT50/100/100HE), in-vivo systems (vivaCT80), and high-resolution quantitative CT (Xtreme CT II).",
+      "cards": [
+        { "title": "Benchtop Ex-vivo Micro CT<br>μCT45/90", "cta": "View Details" },
+        { "title": "Cabinet Ex-vivo Micro CT<br>μCT50/100/100HE", "cta": "View Details" },
+        { "title": "In-vivo Micro CT<br>vivaCT80", "cta": "View Details" },
+        { "title": "High-resolution Quantitative CT<br>Xtreme CT II", "cta": "View Details" }
+      ]
+    },
+    "scan": {
+      "title": "Scanning Applications",
+      "desc": "Applicable to orthopedics, dentistry, oncology, biomedicine, cardiovascular research, materials science, geology, and paleontology.",
+      "items": [
+        "Biomedicine",
+        "Clinical Medicine",
+        "Dentistry",
+        "Orthopedics",
+        "Materials Science",
+        "Fibers",
+        "Biology",
+        "Geology",
+        "Food",
+        "Industry"
+      ]
+    },
+    "partners": {
+      "title": "Partners",
+      "desc": "Precision beyond the micro — every micron of imaging drives cross-dimensional innovation."
+    }
+  }
+  

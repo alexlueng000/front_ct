@@ -1,0 +1,63 @@
+{
+    "page": {
+      "title": "Fraun Biomedical – CT Scanning Service",
+      "description": "Fraun Biomedical provides professional SCANCO MicroCT scanning services, covering multiple research fields including biomedicine, materials science, and geology."
+    },
+    "brand": {
+      "logo_alt": "Fraun Biomedical Logo",
+      "logo_mobile_alt": "Fraun Biomedical Mobile Logo"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Series Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About Us",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "CT Scanning Service",
+      "phone": "0755-86956965"
+    },
+    "table": {
+      "title": "SCANCO μCT100 Resolution Comparison Table",
+      "headers": {
+        "sample_tube": "Sample Tube Size<br>(Inner Diameter × Height)",
+        "fov": "Field of View<br>(FOV [mm])",
+        "native": "Ultra-High Resolution<br>(Native)<br>[μm]",
+        "high": "High Resolution<br>(High)<br>[μm]",
+        "medium": "Medium Resolution<br>(Standard/Medium)<br>[μm]",
+        "custom": "Custom Resolution<br>(Custom)<br>[μm]"
+      },
+      "notes": "<strong>Note 1:</strong> It is recommended to select one of the default resolution modes: Native, High, or Standard/Medium. Custom resolutions are also available upon request.<br><strong>Note 2:</strong> For non-liquid samples, the sample height can be increased by 20–30 mm without a cap. The maximum sample size is 99 × 160 mm."
+    },
+    "scenes": {
+      "title": "Application Scenarios",
+      "menu": {
+        "biomed": "Biomedical",
+        "clinical": "Clinical Medicine",
+        "dental": "Dentistry",
+        "ortho": "Orthopedics",
+        "material": "Materials Science",
+        "fiber": "Fiber Research",
+        "bio": "Biology",
+        "geology": "Geology",
+        "food": "Food Science",
+        "industry": "Industry"
+      },
+      "content": {
+        "biomed": "Biomedicine is one of the primary application fields of MicroCT. High-resolution scans of small animal models enable non-destructive quantification of tumor angiogenesis, organ lesions, drug carrier distribution, and gene therapy effects, providing 3D data support for translational medicine.",
+        "clinical": "Clinical medicine leverages MicroCT to visualize disease mechanisms. By scanning human tissue samples, it is possible to analyze tumor vascular distribution, calcification features, and post-stent tissue integration.",
+        "dental": "In dentistry, MicroCT focuses on hard tissue microstructure analysis. Scanning teeth and jawbone specimens allows for evaluating implant osseointegration, dentin microcrack propagation, and orthodontic effects on alveolar bone.",
+        "ortho": "Orthopedic research relies on MicroCT as the gold-standard technique. High-resolution scans of bone samples enable quantification of trabecular density, cortical porosity, and bone mineral distribution—crucial for assessing bone disorders and healing.",
+        "material": "Materials science depends on MicroCT for non-destructive characterization. Scanning metal foams, composites, and other materials helps quantify porosity, crack paths, and interfacial integrity, providing data for failure analysis.",
+        "fiber": "Fiber research uses MicroCT for 3D topology reconstruction. By scanning carbon fiber or plant fiber composites, researchers can calculate entanglement density, orientation angle distribution, and structural changes under load.",
+        "bio": "In biology, MicroCT focuses on 3D reconstruction of biological specimens. Scanning corals, insects, and plant seeds reveals symbiotic spatial structures and bionic growth patterns.",
+        "geology": "Geological studies use MicroCT to uncover the mysteries of rock formations. Scanning rock cores and mineral samples allows analysis of pore connectivity, fracture permeability, and spatial mineral distribution.",
+        "food": "The food industry applies MicroCT to study texture and structure. Scanning baked goods or frozen foods helps quantify bubble distribution, crystal networks, and process effects on texture.",
+        "industry": "Industrial inspection uses MicroCT as a core technology. By scanning castings and additive manufacturing parts, MicroCT identifies shrinkage cavities, defects, and microcracks, ensuring component reliability."
+      }
+    }
+  }
+  

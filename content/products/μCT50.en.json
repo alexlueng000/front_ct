@@ -1,0 +1,104 @@
+{
+    "page": {
+      "title": "μCT 50 Cabinet microCT Scanner"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About Us",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "μCT 50 Cabinet microCT Scanner"
+    },
+    "product": {
+      "title": "μCT 50 Cabinet microCT Scanner",
+      "summary": "The μCT50/100/100HE series from SCANCO Medical AG combines the largest sample chamber with ultra-high resolution down to 0.5/1.25/1.5 μm. A 12-position auto-sampler supports batch and unattended operation. Typical use covers ex vivo specimens (bone, teeth, tissue, materials) and various materials for internal structural and mechanical analysis. With contrast enhancement, it enables fine imaging of cardiovascular, urinary and digestive systems in animals. Widely used in orthopedics, dentistry, oncology, regenerative medicine, cardiovascular studies, materials science, geology and paleontology."
+    },
+    "cta": {
+      "consult": "Consult Now",
+      "close": "Close"
+    },
+    "tabs": {
+      "specs": "Specifications",
+      "examples": "Application Examples"
+    },
+    "table": {
+      "caption": "μCT 50 Cabinet microCT Scanner"
+    },
+    "specs": {
+      "type": {
+        "label": "Type",
+        "lines": [
+          "Cabinet-style cone-beam microCT",
+          "Fully shielded, no external shielding required"
+        ]
+      },
+      "xray_source": {
+        "label": "X-ray Source",
+        "value": "Sealed, air-cooled, maintenance-free; 5–30 µm focal spot (4–18 W); 20–100 kVp (preset/calibrated 45/55/70/90 kVp)"
+      },
+      "detector": {
+        "label": "Detector",
+        "value": "3400 × 1200 pixels, 20 µm pixel pitch, CCD"
+      },
+      "resolution": {
+        "label": "Resolution",
+        "value": "< 2 µm (10% MTF); 0.5–100 µm nominal isotropic voxel size (incl. nanoCT 0.5 µm)"
+      },
+      "image_matrix": {
+        "label": "Image Matrix",
+        "value": "512 × 512 – 8192 × 8192 pixels"
+      },
+      "max_scan_size": {
+        "label": "Max Scan Size",
+        "value": "50 × 120 mm (Ø × L)"
+      },
+      "max_sample_size": {
+        "label": "Max Sample Size",
+        "value": "100 × 160 mm (Ø × L)"
+      },
+      "power": {
+        "label": "Power",
+        "value": "100–230 V / 50–60 Hz, max 400 W"
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "130 × 135 × 80 cm (H × W × D)"
+      },
+      "weight": {
+        "label": "Weight",
+        "value": "390 kg"
+      },
+      "optional_header": "Options / Notes",
+      "options": [
+        {
+          "label": "Auto-sampler",
+          "value": "Up to 12 sample positions (depending on max sample size)"
+        },
+        {
+          "label": "Filter Exchanger",
+          "value": "4 positions"
+        },
+        {
+          "label": "Compression/Tension Stage",
+          "value": ""
+        },
+        {
+          "label": "Cooling/Heating Stage",
+          "value": ""
+        },
+        {
+          "label": "Density Calibration",
+          "value": "Effective range up to 50 mm (*)"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Application Examples"
+    }
+  }
+  

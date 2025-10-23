@@ -34,7 +34,8 @@
         "label": "Type",
         "lines": [
           "Cone-beam in vivo microCT; fully shielded; no external shielding; integrated heated chamber",
-          "Comprehensive animal monitoring: temperature, onboard observation camera, heart-rate monitoring",
+          "Comprehensive animal monitoring",
+          "temperature, onboard observation camera, heart-rate monitoring",
           "Interchangeable monitoring units",
           "Integrated respiratory gating",
           "Integrated touch display"

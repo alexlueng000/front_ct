@@ -1,0 +1,92 @@
+{
+    "page": {
+      "title": "XtremeCT II 扫描仪"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "CT扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "XtremeCT II 扫描仪"
+    },
+    "product": {
+      "title": "XtremeCT II 扫描仪",
+      "summary": "XtremeCT II 是 SCANCO Medical AG 面向临床与科研的人体/动物周边定量CT（pQCT）系统，可区分并分别定量皮质骨与松质骨，输出3D图像并支持生物力学分析。相较 DEXA，其在骨质疏松诊断与骨强度评估方面具有显著优势，常用于人体四肢端或动物相关研究。"
+    },
+    "cta": {
+      "consult": "立即咨询",
+      "close": "关闭"
+    },
+    "tabs": {
+      "specs": "产品参数",
+      "examples": "应用实例"
+    },
+    "table": {
+      "caption": "XtremeCT II 扫描仪"
+    },
+    "specs": {
+      "type": {
+        "label": "类型",
+        "lines": "高分辨率周边定量CT（pQCT）, 无需外部屏蔽"
+      },
+      "xray_source": {
+        "label": "X 射线源",
+        "value": "密封，水冷，免维护；光斑尺寸 60 µm；68 kVp，100 W，锥形束"
+      },
+      "detector": {
+        "label": "探测器",
+        "value": "4608 × 400 像素，CCD"
+      },
+      "resolution": {
+        "label": "分辨率",
+        "value": "< 59 µm（10% MTF）；17–273 µm 标称各向同性（像素尺寸）"
+      },
+      "image_matrix": {
+        "label": "图像矩阵",
+        "value": "512 × 512 – 8192 × 8192 像素"
+      },
+      "max_scan_size": {
+        "label": "最大扫描尺寸",
+        "value": "140 × 225 mm（Ø × L）"
+      },
+      "max_sample_size": {
+        "label": "最大试样尺寸",
+        "value": "Ø 170 mm（见备注）"
+      },
+      "min_scan_time": {
+        "label": "最短扫描时长",
+        "value": "30 s"
+      },
+      "power": {
+        "label": "电气",
+        "value": "100–230 V / 50–60 Hz / 10 A，最大 370 W"
+      },
+      "dimensions": {
+        "label": "尺寸",
+        "value": "1440 × 1420 × 960 mm（高 × 宽 × 深）"
+      },
+      "weight": {
+        "label": "重量",
+        "value": "570 kg"
+      },
+      "optional_header": "备注",
+      "options": [
+        {
+          "label": "密度校准",
+          "value": "密度校准的有效范围可达 140 mm"
+        },
+        {
+          "label": "结构形式",
+          "value": "扫描仪为开放式"
+        }
+      ]
+    },
+    "examples": {
+      "title": "应用实例"
+    }
+  }

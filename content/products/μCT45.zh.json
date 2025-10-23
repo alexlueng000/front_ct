@@ -1,0 +1,99 @@
+{
+    "page": {
+      "title": "μCT 45 台式 microCT 扫描仪"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "CT扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "μCT 45 台式 microCT 扫描仪"
+    },
+    "product": {
+      "title": "μCT 45 台式 microCT 扫描仪",
+      "summary": "μCT45/90 是 SCANCO Medical AG 公司 μCT35/40/80 的升级型号，占地面积更小，同时兼顾高分辨率（1.25 μm / 2.2 μm）与大样品仓。支持自动换样器（20/16 位）以实现批量与无人值守扫描。典型对象为离体样本（骨骼、牙齿、组织、材料等）或多种材质样品，用于内部结构与力学特性分析；亦可造影剂灌注动物开展心血管、泌尿与消化系统精细成像，应用于骨科、牙科、肿瘤科、再生医学、心血管科、材料学、地质学与古生物学等领域。"
+    },
+    "cta": {
+      "consult": "立即咨询",
+      "close": "关闭"
+    },
+    "tabs": {
+      "specs": "产品参数",
+      "examples": "应用实例"
+    },
+    "table": {
+      "caption": "μCT 45 台式 microCT 扫描仪"
+    },
+    "specs": {
+      "type": {
+        "label": "类型",
+        "lines": [
+          "台式锥形束 microCT",
+          "全屏蔽、无需外部屏蔽"
+        ]
+      },
+      "xray_source": {
+        "label": "X 射线源",
+        "value": "密封、风冷、免维护；光斑尺寸 5 µm（4/8 W）；20–90 kVp（含 45/55/70/90 kVp 预设并校准）"
+      },
+      "detector": {
+        "label": "探测器",
+        "value": "3400 × 1200 像素，20 µm 像素间距，CCD"
+      },
+      "resolution": {
+        "label": "分辨率",
+        "value": "< 5 µm（10% MTF）；1.25–100 µm 标称各向同性（像素尺寸）"
+      },
+      "image_matrix": {
+        "label": "图像矩阵",
+        "value": "512 × 512 – 8192 × 8192 像素"
+      },
+      "max_scan_size": {
+        "label": "最大扫描尺寸",
+        "value": "3"
+      },
+      "max_sample_size": {
+        "label": "最大试样尺寸",
+        "value": "50 × 120 mm（Ø × L）"
+      },
+      "power": {
+        "label": "电气",
+        "value": "100–230 V / 50–60 Hz，最大 400 W"
+      },
+      "dimensions": {
+        "label": "尺寸",
+        "value": "79 × 97 × 57 cm（高 × 宽 × 深）"
+      },
+      "weight": {
+        "label": "重量",
+        "value": "250 kg"
+      },
+      "optional_header": "可选装",
+      "options": [
+        {
+          "label": "自动进样器",
+          "value": "最多 20 个样品架（取决于最大样品量）"
+        },
+        {
+          "label": "过滤器更换器",
+          "value": "3 个位置"
+        },
+        {
+          "label": "压缩/拉伸装置",
+          "value": ""
+        },
+        {
+          "label": "冷却/加热阶段",
+          "value": ""
+        }
+      ]
+    },
+    "examples": {
+      "title": "应用实例"
+    }
+  }

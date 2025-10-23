@@ -1,0 +1,92 @@
+{
+    "page": {
+      "title": "XtremeCT II Scanner"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About Us",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "XtremeCT II Scanner"
+    },
+    "product": {
+      "title": "XtremeCT II Scanner",
+      "summary": "XtremeCT II is a peripheral quantitative CT (pQCT) system by SCANCO Medical AG for clinical and research use. It separates and quantifies cortical and trabecular bone, provides 3D imaging, and supports biomechanical analysis. Compared with DEXA, it offers clear advantages for osteoporosis diagnosis and bone strength assessment, commonly applied to human extremities and animal studies."
+    },
+    "cta": {
+      "consult": "Consult Now",
+      "close": "Close"
+    },
+    "tabs": {
+      "specs": "Specifications",
+      "examples": "Application Examples"
+    },
+    "table": {
+      "caption": "XtremeCT II Scanner"
+    },
+    "specs": {
+      "type": {
+        "label": "Type",
+        "lines": "High-resolution peripheral quantitative CT (pQCT), No external shielding required"
+      },
+      "xray_source": {
+        "label": "X-ray Source",
+        "value": "Sealed, water-cooled, maintenance-free; 60 µm focal spot; 68 kVp, 100 W, cone-beam"
+      },
+      "detector": {
+        "label": "Detector",
+        "value": "4608 × 400 pixels, CCD"
+      },
+      "resolution": {
+        "label": "Resolution",
+        "value": "< 59 µm (10% MTF); 17–273 µm nominal isotropic voxel size"
+      },
+      "image_matrix": {
+        "label": "Image Matrix",
+        "value": "512 × 512 – 8192 × 8192 pixels"
+      },
+      "max_scan_size": {
+        "label": "Max Scan Size",
+        "value": "140 × 225 mm (Ø × L)"
+      },
+      "max_sample_size": {
+        "label": "Max Sample Size",
+        "value": "Ø 170 mm (see notes)"
+      },
+      "min_scan_time": {
+        "label": "Minimum Scan Time",
+        "value": "30 s"
+      },
+      "power": {
+        "label": "Power",
+        "value": "100–230 V / 50–60 Hz / 10 A, max 370 W"
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "1440 × 1420 × 960 mm (H × W × D)"
+      },
+      "weight": {
+        "label": "Weight",
+        "value": "570 kg"
+      },
+      "optional_header": "Notes",
+      "options": [
+        {
+          "label": "Density Calibration",
+          "value": "Effective range up to 140 mm"
+        },
+        {
+          "label": "Form Factor",
+          "value": "Open design scanner"
+        }
+      ]
+    },
+    "examples": {
+      "title": "Application Examples"
+    }
+  }

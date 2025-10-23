@@ -1,0 +1,99 @@
+{
+    "page": {
+      "title": "μCT 45 Benchtop microCT Scanner"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About Us",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "μCT 45 Benchtop microCT Scanner"
+    },
+    "product": {
+      "title": "μCT 45 Benchtop microCT Scanner",
+      "summary": "μCT45/90 is SCANCO Medical’s upgrade to μCT35/40/80, offering a smaller footprint while combining high resolution (1.25 μm / 2.2 μm) with a larger sample chamber. An auto-sampler (20/16 positions) enables batch and unattended scanning. Typical use covers ex vivo specimens (bone, teeth, tissue, materials) and various materials for internal structural and mechanical analysis; contrast-enhanced animal imaging can visualize cardiovascular, urinary, and digestive systems. Widely used across orthopedics, dentistry, oncology, regenerative medicine, cardiovascular studies, materials science, geology, and paleontology."
+    },
+    "cta": {
+      "consult": "Consult Now",
+      "close": "Close"
+    },
+    "tabs": {
+      "specs": "Specifications",
+      "examples": "Application Examples"
+    },
+    "table": {
+      "caption": "μCT 45 Benchtop microCT Scanner"
+    },
+    "specs": {
+      "type": {
+        "label": "Type",
+        "lines": [
+          "Benchtop cone-beam microCT",
+          "Fully shielded, no external shielding required"
+        ]
+      },
+      "xray_source": {
+        "label": "X-ray Source",
+        "value": "Sealed, air-cooled, maintenance-free; 5 µm focal spot (4/8 W); 20–90 kVp (with preset/calibrated 45/55/70/90 kVp)"
+      },
+      "detector": {
+        "label": "Detector",
+        "value": "3400 × 1200 pixels, 20 µm pixel pitch, CCD"
+      },
+      "resolution": {
+        "label": "Resolution",
+        "value": "< 5 µm (10% MTF); 1.25–100 µm nominal isotropic voxel size"
+      },
+      "image_matrix": {
+        "label": "Image Matrix",
+        "value": "512 × 512 – 8192 × 8192 pixels"
+      },
+      "max_scan_size": {
+        "label": "Max Scan Size",
+        "value": "3"
+      },
+      "max_sample_size": {
+        "label": "Max Sample Size",
+        "value": "50 × 120 mm (Ø × L)"
+      },
+      "power": {
+        "label": "Power",
+        "value": "100–230 V / 50–60 Hz, max 400 W"
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "79 × 97 × 57 cm (H × W × D)"
+      },
+      "weight": {
+        "label": "Weight",
+        "value": "250 kg"
+      },
+      "optional_header": "Options",
+      "options": [
+        {
+          "label": "Auto-sampler",
+          "value": "Up to 20 sample positions (depending on max sample size)"
+        },
+        {
+          "label": "Filter Exchanger",
+          "value": "3 positions"
+        },
+        {
+          "label": "Compression/Tension Stage",
+          "value": ""
+        },
+        {
+          "label": "Cooling/Heating Stage",
+          "value": ""
+        }
+      ]
+    },
+    "examples": {
+      "title": "Application Examples"
+    }
+  }

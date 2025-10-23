@@ -1,0 +1,99 @@
+{
+    "page": {
+      "title": "vivaCT 80 活体 microCT 扫描仪"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "CT扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "vivaCT 80 活体 microCT 扫描仪"
+    },
+    "product": {
+      "title": "vivaCT 80 活体 microCT 扫描仪",
+      "summary": "vivaCT80 是 SCANCO Medical AG 最新一代活体产品，是 vivaCT40 与 vivaCT75 的升级型号，新增触屏显示器、加热系统与呼吸麻醉接口，可更好监控动物生理状态。最高分辨率达 3.9 μm，样品仓更大（90×500 mm），配合大动物装置可扫描兔子头颅、四肢等体积较大的样本。典型对象为小鼠、大鼠或兔等活体小动物，麻醉/固定后扫描，可用于组织、器官与代谢等纵向研究。"
+    },
+    "cta": {
+      "consult": "立即咨询",
+      "close": "关闭"
+    },
+    "tabs": {
+      "specs": "产品参数",
+      "examples": "应用实例"
+    },
+    "table": {
+      "caption": "vivaCT 80 活体 microCT 扫描仪"
+    },
+    "specs": {
+      "type": {
+        "label": "类型",
+        "lines": [
+          "锥形束活体 microCT、全屏蔽、无需外部屏蔽、集成加热室",
+          "综合动物监控装置：温度监测、集成观察相机、心率监测",
+          "可互换的监控单元",
+          "集成式呼吸门控装置",
+          "集成触摸显示屏"
+        ]
+      },
+      "xray_source": {
+        "label": "X 射线源",
+        "value": "密封、风冷、免维护；光斑 5–7 µm（4/8 W）；30–70 kVp（45/55/70 kVp 预设并校准）"
+      },
+      "detector": {
+        "label": "探测器",
+        "value": "3720 × 400 像素，48 µm 像素间距，CCD"
+      },
+      "resolution": {
+        "label": "分辨率",
+        "value": "< 14 µm（10% MTF）；3.9–160 µm 标称各向同性（像素尺寸）"
+      },
+      "image_matrix": {
+        "label": "图像矩阵",
+        "value": "512 × 512 – 8192 × 8192 像素"
+      },
+      "max_scan_size": {
+        "label": "最大扫描尺寸",
+        "value": "80 × 145 mm（Ø × L）；多次扫描最高可达 450 mm"
+      },
+      "max_sample_size": {
+        "label": "最大试样尺寸",
+        "value": "90 × 500 mm（Ø × L）"
+      },
+      "min_scan_time": {
+        "label": "最短扫描时长",
+        "value": "20 s"
+      },
+      "power": {
+        "label": "电气",
+        "value": "100–230 V / 50–60 Hz，最大 400 W"
+      },
+      "dimensions": {
+        "label": "尺寸",
+        "value": "2050 × 1230 × 910 mm（高 × 宽 × 深）"
+      },
+      "weight": {
+        "label": "重量",
+        "value": "400 kg（标准），430 kg（加配大动物装置）"
+      },
+      "optional_header": "可选装",
+      "options": [
+        {
+          "label": "大动物装置",
+          "value": "可对小兔等较大实验动物的四肢末端进行扫描"
+        },
+        {
+          "label": "过滤器更换器",
+          "value": "滤片切换可塑形 X 射线能谱：弱滤片增强软组织对比度；强滤片降低束硬化以提高密度测量准确性。可选 0.1 mm Al、0.5 mm Al、0.1 mm Cu；另有空档用于无滤片扫描。"
+        }
+      ]
+    },
+    "examples": {
+      "title": "应用实例"
+    }
+  }
+  

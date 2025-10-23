@@ -1,0 +1,99 @@
+{
+    "page": {
+      "title": "vivaCT 80 In Vivo microCT Scanner"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Series Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact"
+    },
+    "banner": {
+      "title": "vivaCT 80 In Vivo microCT Scanner"
+    },
+    "product": {
+      "title": "vivaCT 80 In Vivo microCT Scanner",
+      "summary": "vivaCT 80 is SCANCO Medical’s latest in vivo system, upgraded from vivaCT40/75 with a touch display, integrated heating, and anesthesia/respiration interface for better physiological monitoring. It delivers up to 3.9 μm resolution and a larger specimen chamber (90×500 mm). With the large-animal add-on, it can scan rabbit skulls/limbs and other larger samples. Typical subjects include mice, rats, and rabbits scanned under anesthesia or fixation, enabling longitudinal studies of tissues, organs, and metabolism."
+    },
+    "cta": {
+      "consult": "Contact Sales",
+      "close": "Close"
+    },
+    "tabs": {
+      "specs": "Specifications",
+      "examples": "Application Examples"
+    },
+    "table": {
+      "caption": "vivaCT 80 In Vivo microCT Scanner"
+    },
+    "specs": {
+      "type": {
+        "label": "Type",
+        "lines": [
+          "Cone-beam in vivo microCT; fully shielded; no external shielding; integrated heated chamber",
+          "Comprehensive animal monitoring: temperature, onboard observation camera, heart-rate monitoring",
+          "Interchangeable monitoring units",
+          "Integrated respiratory gating",
+          "Integrated touch display"
+        ]
+      },
+      "xray_source": {
+        "label": "X-ray Source",
+        "value": "Sealed, air-cooled, maintenance-free; focal spot 5–7 μm (4/8 W); 30–70 kVp (presets 45/55/70 kVp)"
+      },
+      "detector": {
+        "label": "Detector",
+        "value": "3720 × 400 pixels, 48 μm pitch, CCD"
+      },
+      "resolution": {
+        "label": "Resolution",
+        "value": "< 14 μm (10% MTF); 3.9–160 μm nominal isotropic (pixel size)"
+      },
+      "image_matrix": {
+        "label": "Image Matrix",
+        "value": "512 × 512 – 8192 × 8192 pixels"
+      },
+      "max_scan_size": {
+        "label": "Max Scan Size",
+        "value": "80 × 145 mm (Ø × L); up to 450 mm via multi-scan"
+      },
+      "max_sample_size": {
+        "label": "Max Sample Size",
+        "value": "90 × 500 mm (Ø × L)"
+      },
+      "min_scan_time": {
+        "label": "Shortest Scan Time",
+        "value": "20 s"
+      },
+      "power": {
+        "label": "Power",
+        "value": "100–230 V / 50–60 Hz, max 400 W"
+      },
+      "dimensions": {
+        "label": "Dimensions",
+        "value": "2050 × 1230 × 910 mm (H × W × D)"
+      },
+      "weight": {
+        "label": "Weight",
+        "value": "400 kg (standard), 430 kg (with large-animal add-on)"
+      },
+      "optional_header": "Options",
+      "options": [
+        {
+          "label": "Large-Animal Add-on",
+          "value": "For scanning distal limbs of larger animals such as rabbits"
+        },
+        {
+          "label": "Filter Changer",
+          "value": "Spectral shaping of the X-ray beam: weaker filters enhance soft-tissue contrast; stronger filters reduce beam hardening for more accurate density measurements. Options include 0.1 mm Al, 0.5 mm Al, 0.1 mm Cu; one open slot allows unfiltered scans."
+        }
+      ]
+    },
+    "examples": {
+      "title": "Application Examples"
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "page": {
+      "title": "Fraun Biomed - SCANCO Medical AG",
+      "description": "About SCANCO Medical AG of Switzerland: a pioneer and leader in MicroCT."
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Series Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact"
+    },
+    "banner": {
+      "title": "SCANCO Medical AG"
+    },
+    "sidebar": {
+      "company_profile": "Company Profile",
+      "scanco": "SCANCO Medical AG"
+    },
+    "scanco": {
+      "title": "About SCANCO Medical AG",
+      "p1": "Headquartered in Zurich, Switzerland, SCANCO began MicroCT research and development in the 1960s at the University of Zurich, making it one of the earliest manufacturers to enter the MicroCT field. In 1988, SCANCO MEDICAL AG spun off from the University of Zurich and became an independent company.",
+      "p2": "SCANCO systems are widely used by leading academic, industrial, and medical institutions worldwide, spanning biomedical, clinical, dental research, materials analysis, geology, paleontology, fibers, and food science. The portfolio includes four high-resolution ex vivo scanners, two high-resolution in vivo scanners, and a quantitative extremity CT system. These systems deliver high resolution and high SNR image quality, and—together with comprehensive software suites and tailored compute systems—enable precise and reproducible 3D quantitative analysis for an end-to-end high-resolution imaging solution.",
+      "p3": "For decades, SCANCO has provided cutting-edge MicroCT technology, comprehensive after-sales support, and full-scope scanning, analysis, and consulting services to research institutions worldwide. Over 55% of MicroCT application papers cite SCANCO products, with more than 7,500 publications and 600+ systems installed globally. More than half of MicroCT users worldwide use SCANCO, notably in orthopedics and dental research."
+    }
+  }
+  

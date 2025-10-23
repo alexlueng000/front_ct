@@ -1,0 +1,43 @@
+{
+    "page": {
+      "title": "Fraun Biomed - Contact Us",
+      "description": "Fraun Biomed — Contact"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Series Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "Contact Us"
+    },
+    "contact": {
+      "hq": {
+        "title": "Headquarters",
+        "address_label": "Address:",
+        "address_html": "Room 1301, Hongchang Plaza, No. 2001 Shennan East Road, Luohu District, Shenzhen",
+        "phone_label": "Phone:",
+        "phone_display": "+86 755-86956965",
+        "phone_href": "tel:+8675586956965"
+      },
+      "service_center": {
+        "title": "SCANCO Micro CT China Service Center",
+        "address_label": "Address:",
+        "address_html": "Room 201, Building A9, Tianliao Tower, No. 1133 Xueyuan, Nanshan District, Shenzhen",
+        "phone_label": "Phone:",
+        "contacts": [
+          { "name": "Mr. Zou", "display": "+86 138-0229-4409", "href": "tel:+8613802294409" },
+          { "name": "Engineer Li", "display": "+86 188-2017-5621", "href": "tel:+8618820175621" },
+          { "name": "Engineer Lai", "display": "+86 134-1853-1318", "href": "tel:+8613418531318" }
+        ],
+        "email_label": "Email:",
+        "email_display": "sales@szfront.cn",
+        "email_href": "mailto:sales@szfront.cn"
+      }
+    }
+  }
+  

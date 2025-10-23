@@ -1,0 +1,43 @@
+{
+    "page": {
+      "title": "弗劳恩科服 - 联系我们",
+      "description": "弗劳恩科服-联系我们"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "SCANCO CT系列产品",
+      "scan_service": "CT 扫描检测服务",
+      "about": "关于我们",
+      "about_company": "公司简介",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "联系我们"
+    },
+    "banner": {
+      "title": "联系我们"
+    },
+    "contact": {
+      "hq": {
+        "title": "总部",
+        "address_label": "地址：",
+        "address_html": "深圳市罗湖区南湖街道新南社区深南东路2001号鸿昌广场1301",
+        "phone_label": "联系电话：",
+        "phone_display": "0755-86956965",
+        "phone_href": "tel:+8675586956965"
+      },
+      "service_center": {
+        "title": "SCANCO Micro CT中国服务中心",
+        "address_label": "地址：",
+        "address_html": "深圳市南山区学苑1133号田寮大厦A9栋201",
+        "phone_label": "联系电话：",
+        "contacts": [
+          { "name": "邹总", "display": "13802294409", "href": "tel:+8613802294409" },
+          { "name": "李工", "display": "18820175621", "href": "tel:+8618820175621" },
+          { "name": "来工", "display": "13418531318", "href": "tel:+8613418531318" }
+        ],
+        "email_label": "电子邮件：",
+        "email_display": "sales@szfront.cn",
+        "email_href": "mailto:sales@szfront.cn"
+      }
+    }
+  }
+  

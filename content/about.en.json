@@ -1,56 +1,41 @@
 {
-    "page": {
-      "title": "Fraun Biomedical – Company Profile",
-      "description": "Shenzhen Fraun Technology Service Co., Ltd., founded in 2014, focuses deeply on advanced microscopic imaging and is the exclusive distributor of Switzerland’s SCANCO MEDICAL AG in Greater China."
-    },
-    "brand": {
-      "logo_alt": "Fraun Biomedical Logo",
-      "logo_mobile_alt": "Fraun Biomedical Mobile Logo"
-    },
-    "nav": {
-      "home": "Home",
-      "products": "SCANCO CT Series Products",
-      "scan_service": "CT Scanning Service",
-      "about": "About Us",
-      "about_company": "Company Profile",
-      "about_scanco": "SCANCO Medical AG",
-      "contact": "Contact Us"
-    },
-    "banner": {
-      "title": "Company Profile"
-    },
-    "sidebar": {
-      "company_profile": "Company Profile",
-      "scanco": "SCANCO Medical AG"
-    },
-    "content": {
-      "sections": [
-        {
-          "title": "Company Profile",
-          "paragraphs": [
-            "Shenzhen Fraun Technology Service Co., Ltd. (referred to as “Fraun Biomedical”) was established in 2014 and has been dedicated to the field of advanced microscopic imaging. Over the past decade, as the exclusive distributor of Switzerland’s SCANCO MEDICAL AG in the Greater China region (including Mainland China, Hong Kong, Macao, and Taiwan), Fraun Biomedical has built a comprehensive service ecosystem that spans from fundamental research to clinical translation. With more than 70 systems installed, it has continuously maintained a leading market share in the industry.",
-            "Relying on an integrated service network that connects universities, research institutes, and medical institutions, we have created China’s first one-stop SCANCO MicroCT high-precision 3D imaging service platform, which includes:"
-          ],
-          "list": [
-            "End-to-end technical support: from equipment selection and installation to application training",
-            "Customized scanning services: providing micro- and sub-micron-level ultra-high-resolution imaging solutions",
-            "Full-lifecycle management: 24/7 rapid maintenance and technical response system"
-          ],
-          "footer": "Looking ahead, Fraun Biomedical will continue to fulfill its mission of 'Driving Innovation through Microscopic Imaging.' We are building an innovative 'Joint Laboratory' model, forming deep collaborations with government agencies, enterprises, and academic institutions, and striving to become the leader in the new infrastructure of microscopic imaging."
-        },
-        {
-          "title": "Core Values",
-          "paragraphs": ["Excellence in the micro, innovation beyond the micro — empowering cross-dimensional innovation through every micron of imaging."]
-        },
-        {
-          "title": "Mission",
-          "paragraphs": ["Driving Innovation through Microscopic Imaging"]
-        },
-        {
-          "title": "Vision",
-          "paragraphs": ["To become the leader in new infrastructure for microscopic imaging"]
-        }
-      ]
-    }
+  "page": {
+    "title": "Fraun Biomed - Company Profile",
+    "description": "Fraun Biomed focuses on high-end microscopic imaging and is the exclusive distributor of SCANCO MEDICAL AG in Greater China."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "SCANCO CT Series Products",
+    "scan_service": "CT Scanning Service",
+    "about": "About",
+    "about_company": "Company Profile",
+    "about_scanco": "SCANCO Medical AG",
+    "contact": "Contact"
+  },
+  "banner": {
+    "title": "Company Profile"
+  },
+  "about": {
+    "title": "Company Profile",
+    "p1": "Founded in 2014, Fraun Biomed has been dedicated to high-end microscopic imaging. As the exclusive distributor of SCANCO MEDICAL AG in Greater China (including Mainland China, Hong Kong, Macau, and Taiwan), we have built a complete service system spanning basic research to clinical translation, with more than 70 systems installed and a sustained leading market share.",
+    "p2": "Leveraging a service framework that connects universities, research institutes, and medical institutions, we created China’s first one-stop precision 3D imaging platform for SCANCO Micro CT, covering:",
+    "list": [
+      "End-to-end technical support: from model selection and installation/commissioning to application training",
+      "Customized scanning & testing: micron- and sub-micron-level ultra-high-resolution imaging solutions",
+      "Full life-cycle management: 24/7 rapid-response maintenance service"
+    ],
+    "footer": "Looking ahead, Fraun Biomed will continue to fulfill its mission of “innovation powered by microscopic imaging,” develop joint-lab collaboration models, deepen partnerships with leading public and private institutions and universities, and strive to become a foundational leader in microscopic imaging infrastructure."
+  },
+  "values": {
+    "title": "Core Values",
+    "text": "Master the micro, go beyond the micro — every micron of imaging drives cross-dimensional innovation."
+  },
+  "mission": {
+    "title": "Mission",
+    "text": "Innovation powered by microscopic imaging"
+  },
+  "vision": {
+    "title": "Vision",
+    "text": "To become a foundational leader in microscopic imaging infrastructure"
   }
-  
+}

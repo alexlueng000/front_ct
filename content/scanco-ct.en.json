@@ -1,0 +1,44 @@
+{
+    "page": {
+      "title": "Fraun Biomed – SCANCO CT Product Series",
+      "description": "Fraun Biomed offers original SCANCO MicroCT product lines, covering ex vivo, in vivo, and high-energy models."
+    },
+    "brand": {
+      "logo_alt": "Fraun Biomed Logo",
+      "logo_mobile_alt": "Fraun Biomed Mobile Logo"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "SCANCO CT Products",
+      "scan_service": "CT Scanning Service",
+      "about": "About Us",
+      "about_company": "Company Profile",
+      "about_scanco": "SCANCO Medical AG",
+      "contact": "Contact Us"
+    },
+    "banner": {
+      "title": "SCANCO CT Product Series"
+    },
+    
+    "section_title": "Product List",
+    "products": {
+    "product1": {
+        "title": "μCT45/90 (Ex Vivo)",
+        "link": "products/product1.html"
+    },
+    "product2": {
+        "title": "μCT50/100/100 HE (Ex Vivo)",
+        "link": "products/product2.html"
+    },
+    "product3": {
+        "title": "vivaCT80 (Ex Vivo)",
+        "link": "products/product3.html"
+    },
+    "product4": {
+        "title": "Xtreme CT II (Ex Vivo)",
+        "link": "products/product4.html"
+    }
+    }
+    
+  }
+  

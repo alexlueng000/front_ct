@@ -30,7 +30,6 @@
         "address_html": "Room 201, Building A9, Tianliao Tower, No. 1133 Xueyuan, Nanshan District, Shenzhen",
         "phone_label": "Phone:",
         "contacts": [
-          { "name": "Mr. Zou", "display": "+86 138-0229-4409", "href": "tel:+8613802294409" },
           { "name": "Engineer Li", "display": "+86 188-2017-5621", "href": "tel:+8618820175621" },
           { "name": "Engineer Lai", "display": "+86 134-1853-1318", "href": "tel:+8613418531318" }
         ],
